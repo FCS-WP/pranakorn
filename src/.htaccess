@@ -1,3 +1,7 @@
+# BEGIN PHP Settings
+php_value upload_max_filesize 32M
+php_value post_max_size 32M
+# END PHP Settings
 # BEGIN WordPress
 
 # The directives (lines) between "BEGIN WordPress" and "END WordPress" are
